@@ -1,6 +1,6 @@
 # Machine Learning Flappy Bird Game
 
-For a full description of the project visit my website at mehekj.github.io/projects/flappybird.html.
+For a full description of the project visit my website at https://mehekj.github.io/projects/flappybird.html.
 
 ## Run Instructions
 Either clone this repo or download the flappybird.jar file (located in out/artifacts/FlappyBird).  
